@@ -1,0 +1,24 @@
+{
+  "name": "self-learning-clinic-front-end-design",
+  "version": "1.0.0",
+  "description": "A simple clone of facebook home page using HTML and CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmmaTope/self-learning-clinic-front-end-design.git"
+  },
+  "keywords": [
+    "Andela",
+    "HTML",
+    "CSS"
+  ],
+  "author": "Shaibu Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmmaTope/self-learning-clinic-front-end-design/issues"
+  },
+  "homepage": "https://github.com/EmmaTope/self-learning-clinic-front-end-design#readme",  
+}
